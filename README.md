@@ -2,19 +2,19 @@
 
 Projeto de automação de testes utilizando Python, Selenium e Pytest.
 
-📌 Objetivo
+## 📌 Objetivo
 Automatizar testes de um sistema de e-commerce (SauceDemo).
 
-🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 - Python
 - Selenium
 - Pytest
 - WebDriver Manager
 
-🧪 Testes implementados
+## 🧪 Testes implementados
 - Login com sucesso
 
-▶️ Como executar o projeto
+## ▶️ Como executar o projeto
 
 1. Instalar dependências:
 pip install -r requirements.txt
